@@ -1,2 +1,2 @@
 # get_next_line
-42 - 02 Project ft_printf
+42 - 02 Project get_next_line
